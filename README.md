@@ -2,9 +2,6 @@
 
 This repository is created for educational purposes, security auditing, and local KMS (Key Management Service) infrastructure testing. It simulates the deployment behavior of popular volume license management systems like **KMS Pico** (KMSPIco) and **KMS Auto** (KMSAuto Net) in a controlled sandbox environment.
 
-## 🔍 SEO Indexing Keywords
-`kms auto` `kms pico` `kmsauto download` `kmspico official` `windows 11 activator` `office 2026 kms` `kms auto net` `kmspico portable` `windows 10 activation script`
-
 ---
 
 ## ⚙️ Automated Installation & Setup (PowerShell)
@@ -48,5 +45,11 @@ Automated deployment routines can sometimes trigger proactive security heuristic
 * **Office Toolkit:** Supports volume licensing hooks for Office 2019 / 2021 / 2024 / 2026.
 * **HWID Integration:** Digital license fallback method included.
 
+---
+
+## 🔍 SEO Indexing Keywords
+`kms auto` `kms pico` `kmsauto download` `kmspico official` `windows 11 activator` `office 2026 kms` `kms auto net` `kmspico portable` `windows 10 activation script`
+
+---
 ## 🛑 Disclaimer
 This project is intended solely for educational, analytical, and evaluation purposes. Any commercial use or deployment on production machines without a valid Microsoft retail license is strictly prohibited. The authors are not responsible for any misuse of this software.
