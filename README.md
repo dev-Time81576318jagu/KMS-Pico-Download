@@ -1,4 +1,4 @@
-# KMS Activation & Volume Licensing Research Lab
+# KMS Activation & Volume Licensing Research Lab 
 
 This repository is created for educational purposes, security auditing, and local KMS (Key Management Service) infrastructure testing. It simulates the deployment behavior of popular volume license management systems like **KMS Pico** (KMSPIco) and **KMS Auto** (KMSAuto Net) in a controlled sandbox environment.
 
